@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Mobilenet-Image-Identification"
+		},
+		{
+			"path": "../Face_recog"
+		},
+		{
+			"path": "../case-study-project"
+		},
+		{
+			"path": "../Intro-To-p5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Intro-To-p5"
+	}
+}
